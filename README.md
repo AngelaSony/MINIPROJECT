@@ -1,5 +1,3 @@
-# emotion-based-music-ai
+# emotion-based--ai
 
-just clone this repo or download
-
-and run app.py 
+run app.py 
